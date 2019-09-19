@@ -2,6 +2,9 @@
 A GitHub repository for the newbies.
 
 # NAME 
+ayush varshney
+aviral mishra
+smriti Gupta
 
 
 
